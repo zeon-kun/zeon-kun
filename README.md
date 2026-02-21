@@ -5,7 +5,7 @@
 **Software Engineer · Backend Developer · Cloud Engineer**
 
 Informatics Engineering graduate from Institut Teknologi Sepuluh Nopember (ITS).
-Currently a Tools Engineer at ILUMINA (Huawei) working on FOBO telecommunications infrastructure projects.
+Currently a Software Engineer at Huawei working on B2B division, building tools for efficiency in the Team.
 Building scalable systems and exploring Web3 technologies on the side.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafif-jeong)
